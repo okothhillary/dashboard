@@ -15,10 +15,6 @@
 # production
 /build
 
-# pnpm store
-.pnpm-store/
-**/.pnpm-store/
-
 # misc
 .DS_Store
 *.pem
